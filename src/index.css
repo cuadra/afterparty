@@ -1,0 +1,37 @@
+.lazy-loading,
+.lazy-loaded {
+  margin-bottom: 15px;
+  min-width: 400px;
+  min-height: 400px;
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+  background-position: center top;
+  border: 1px solid #efefef;
+}
+.lazy-loaded {
+  border: 1px solid #ccc;
+}
+.lazy-loaded.example1 {
+  background-image: url("https://placehold.co/400?text=Example+1");
+}
+.lazy-loaded.example2 {
+  background-image: url("https://placehold.co/400?text=Example+2");
+}
+.lazy-loaded.example3 {
+  background-image: url("https://placehold.co/400?text=Example+3");
+}
+.lazy-loaded.example4 {
+  background-image: url("https://placehold.co/400?text=Example+4");
+}
+.lazy-loaded.example5 {
+  background-image: url("https://placehold.co/400?text=Example+5");
+}
+.lazy-loaded.example6 {
+  background-image: url("https://placehold.co/400?text=Example+6");
+}
+.lazy-loaded.example7 {
+  background-image: url("https://placehold.co/400?text=Example+7");
+}
+.lazy-loaded.example8 {
+  background-image: url("https://placehold.co/400?text=Example+8");
+}
